@@ -12,7 +12,7 @@ async def main():
     print("=" * 50)
     
     try:
-        # Perform the search
+        # Perform the searchsymer
         results = web_tool.search(query)
         
         # Display results
